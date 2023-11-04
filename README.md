@@ -2,7 +2,7 @@
 
 This project focuses on leveraging the NetworkX library to analyze and represent graphs using adjacency matrices and link lists. The main objectives of the project are as follows:
 
-1- Construct the adjacency matrix and link lists for a given network.
+1- Construct the adjacency matrix and link lists for a given network.\n
 2- Calculate the average clustering coefficient of the network using NetworkX.
 3- Investigate the impact of switching node labels on the adjacency matrix and link list representations.
 4- Identify the limitations of inferring certain information from the link list representation compared to the adjacency matrix.
